@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Play Sugoku Puzzle Games"
 date:   2021-02-08 14:39:42 +0800
 categories: jekyll update
 ---
