@@ -130,3 +130,9 @@ exchange.admazing.co, AM3, RESELLER
 velismedia.com, 725, RESELLER
 
 velismedia.com, 1137, RESELLER
+
+bidease.com, exchange-20, RESELLER
+
+admixplay.com, 2012, RESELLER
+
+yeahmobi.com, 5135195, RESELLER
