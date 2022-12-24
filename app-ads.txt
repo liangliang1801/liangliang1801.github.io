@@ -136,3 +136,6 @@ bidease.com, exchange-20, RESELLER
 admixplay.com, 2012, RESELLER
 
 yeahmobi.com, 5135195, RESELLER
+
+applovin.com, ca0428044e5cdae6fbfa8d76e274bc9d, DIRECT
+
